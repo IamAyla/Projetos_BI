@@ -1,4 +1,5 @@
 # Projetos BI
-Aqui estão publicando alguns projetos que realizei para aprimorar minhas habilidades com a ferramenta Power BI. São:
+Aqui estão publicados alguns projetos que realizei para aprimorar minhas habilidades com a ferramenta Power BI. São:
 
-- Dashboard de Vendas
+- Dashboard de Aanálise de Vendas
+- Dashboard de Análise da Performande Vendedores
