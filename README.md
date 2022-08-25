@@ -3,4 +3,4 @@ Aqui estão publicados alguns projetos que realizei para aprimorar minhas habili
 
 - Dashboard de Análise de vendas
 - Dashboard de Análise da Performande de vendedores
-- Dassboard de Análise da Produção 
+- Dashboard de Análise da Produção 
